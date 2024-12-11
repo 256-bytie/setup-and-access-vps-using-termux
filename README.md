@@ -12,6 +12,7 @@ pkg install openssh -y
 **2. Generate the VPS Password**
 
 • Open the email sent from your cloud company; to generate your VPS password or Copy give password.
+
 • Save the password securely as you'll need it to connect via SSH.
 
 **3. Connect to the VPS Using SSH**
@@ -23,6 +24,7 @@ Replace the placeholders with the "IPv4 address" and "username" (as provided in 
 ssh ubuntu@51.75.161.254
 ```
   • Username: [yourusername]
+ 
   • IP Address: [youripadress] (as per the email)
 
 **4. Enter the Password**
